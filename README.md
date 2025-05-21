@@ -93,5 +93,5 @@ No nível Mestre, você implementará a comparação entre duas cartas e o cálc
 
 Ao concluir qualquer um dos níveis, você terá dado um passo importante no desenvolvimento do Super Trunfo - Países. Boa sorte e divirta-se programando!
 
-Equipe de Ensino - MateCheck
-content_copy
+
+
